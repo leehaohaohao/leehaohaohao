@@ -22,7 +22,7 @@
 - **中间件**：RabbitMQ、ElasticSearch、Nacos、Setea、OpenFeign
 - **网络编程**：Netty（含 WebSocket）
 - **基础设施**：Docker、Nginx、Maven、Linux、Git
-- **前端能力**：了解 HTML、JavaScript、CSS，具备简单调试与开发能力
+- **前端能力**：了解 HTML、JavaScript、CSS、React，具备简单调试与开发能力。并会用React进行简单网页项目开发。
 
 ---
 
@@ -45,7 +45,7 @@
 - **技术栈**：SpringBoot、MyBatis、Netty、MySQL、Docker、Nginx
 
 ### 📚 [大学复习资料综合博客网站](#)  
-- 提供课程资料分享、查找、评论、交流功能，解决复习资料分散问题  
+- 提供学生分享、查找、评论、交流功能的平台，用于分享资料等
 - 支持 RBAC 权限系统、文章推荐与筛选、用户关注、点赞收藏  
 - 内置聊天系统：使用 Netty 实现群组与公共频道通信  
 - **技术栈**：SpringBoot、MyBatis、Redis、MySQL、Netty、JWT
